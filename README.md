@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TricKi</h1>
 <h3 align="center">A cybersecurity enthusiast from France</h3>
 
-- 🔭 I’m currently working on **a password cracker**
+- 🔭 I’m currently working on **linux tool to move faster between directories**
 
 - 🌱 I’m currently learning **web app pentesting**
 
